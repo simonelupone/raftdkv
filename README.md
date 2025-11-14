@@ -2,7 +2,7 @@
 
 ## Background and motivation
 
-As a full-stack developer i've learn how to build a simple Backend with a bunch of programming language like php and its framework Laravel, Javascript and Node.js (in particular Rest API with Express.js) and lately Java with Spring Boot. Thanks to my curiosity, I've always had a tendency to dig deeper. When I came across distributed systems, I wanted to look under the hood and stumbled upon RAFT. The simplicity used in the [paper](https://raft.github.io/raft.pdf) to explain this mechanism immediately fascinated me, and given my skills (still to be improved) in Java, I decided to get hands-on with it.
+As a full-stack developer i've learned how to build a simple Backend with a bunch of programming language like php and its framework Laravel, Javascript and Node.js (in particular Rest API with Express.js) and lately Java with Spring Boot. Thanks to my curiosity, I've always had a tendency to dig deeper. When I came across distributed systems, I wanted to look under the hood and stumbled upon RAFT. The simplicity used in the [paper](https://raft.github.io/raft.pdf) to explain this mechanism immediately fascinated me, and given my skills (still to be improved) in Java, I decided to get hands-on with it.
 
 So here we are, attempting to implement this wonderful algorithm in a Java project.
 
